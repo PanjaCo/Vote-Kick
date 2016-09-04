@@ -1,0 +1,9 @@
+main: com.panjaco.votekick.VoteKick
+version: 1.0.0
+author: iPanja
+name: Vote Kick
+commands:
+  votekick:
+    description: Use Vote Kick commands
+    usage: /votekick
+    aliases: vk
